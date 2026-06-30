@@ -5,8 +5,8 @@ El proyecto se ha realizado siguiendo metodología ágil Scrum y BDD para el dis
 
 ## Plan de Pruebas, resultados y reporte de errores: 
 
-[Ver Plan de Pruebas y Reporte de Errores](https://github.com/Sorayacazorlag/Factorial/blob/main/Plan%20de%20Pruebas.pdf)
-En este documento se detalla el plan de pruebas, las funcionalidades probadas, el resultado de las pruebas ejecutadas y el reporte de errores.
+
+[Ver Plan de Pruebas y Reporte de Errores](https://github.com/Sorayacazorlag/Factorial/blob/main/Plan%20de%20Pruebas.pdf) En este documento se detalla el plan de pruebas, las funcionalidades probadas, el resultado de las pruebas ejecutadas y el reporte de errores.
 
 
 ## Automatización E2E - Tecnologías
